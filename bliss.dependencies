@@ -6,10 +6,10 @@
     "revision": "lp5.1-caf"
   },
   {
-    "remote": "github",
-    "repository": "LlamaOpenSourceProject/msm8974_caf_G2",
+    "remote": "TeamBliss-Devices",
+    "repository": "android_kernel_lge_msm8974",
     "target_path": "kernel/lge/msm8974",
-    "revision": "lp5.1"
+    "revision": "lp5.1-caf"
   },
   {
     "remote": "cm",
