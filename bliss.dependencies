@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "LlamaOpenSourceProject/msm8974_caf_G2",
+    "repository": "LlamaOpenSourceProject/android_kernel_lge_msm8974",
     "target_path": "kernel/lge/msm8974",
     "revision": "lp5.1"
   },
